@@ -14,14 +14,14 @@ New Uris for this repos
 -----------------------
 
 For webview, replace
-https://github.com/mbasaglia/<repo> with
-https://gitlab.com/mattia.basaglia/<repo>
+https://github.com/mbasaglia/Qt-MiscWidgets with
+https://gitlab.com/mattia.basaglia/Qt-MiscWidgets
 
 For SSH remotes replace
-`git@github.com:mbasaglia/<repo>.git` with
-`git@gitlab.com:mattia.basaglia/<repo>.git`
+`git@github.com:mbasaglia/Qt-MiscWidgets.git` with
+`git@gitlab.com:mattia.basaglia/Qt-MiscWidgets.git`
 
 For HTTPS remotes replace
-`https://github.com/mbasaglia/<repo>.git` with
-`https://gitlab.com/mattia.basaglia/<repo>.git`
+`https://github.com/mbasaglia/Qt-MiscWidgets.git` with
+`https://gitlab.com/mattia.basaglia/Qt-MiscWidgets.git`
 
